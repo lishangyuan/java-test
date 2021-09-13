@@ -1,0 +1,19 @@
+#java
+*.class
+#log
+*.log
+#package file
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+#maven ignore
+target/
+build/
+/bin/
+#eclipse ignore
+.settings/
+.project
+.classpath
